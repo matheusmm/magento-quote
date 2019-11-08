@@ -11,7 +11,7 @@ class Intelipost_Quote_Model_Config_Attributes_Subsidio_Frete
         				array( 'value' => 0,
         					   'label' => Mage::helper('quote')->__('Disabled')
         					 ),
-        				array( 'value' => 1
+        				array( 'value' => 1,
         						'label' => Mage::helper('quote')->__('Enabled')
         					),	
         			);
